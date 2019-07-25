@@ -56,3 +56,8 @@ Convolutional Neural Network (CNN) for Text Classification in different categori
 ### CNN Model Architecture 
 
 ![CNN Model Architecture](Model/model.png)
+
+
+### Prediction Result on Test Data:
+
+![Testing Data Sample](Result/test_example.JPG)
