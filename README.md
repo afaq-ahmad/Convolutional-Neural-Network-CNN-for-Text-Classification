@@ -51,7 +51,8 @@ Convolutional Neural Network (CNN) for Text Classification in different categori
 -Download wordtovector model:
     
     Download the the 'wikinews300d1mvec.zip' and place the wiki-news-300d-1M.vec in the Model directory.
--Download the pretrained our weights and place them in Model directort if you want to test directly. 
+-Download the pretrained our weights and place them in Model directort if you want to test directly. [Download Link](https://www.dropbox.com/sh/bc289jpbz80rzpk/AABiNzv2TqDD4K_npZIeKG8aa?dl=0)
 
-   [Download Link](https://www.dropbox.com/sh/bc289jpbz80rzpk/AABiNzv2TqDD4K_npZIeKG8aa?dl=0)
+### CNN Model Architecture 
 
+![CNN Model Architecture](Model/model.png)
