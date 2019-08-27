@@ -61,3 +61,7 @@ Convolutional Neural Network (CNN) for Text Classification in different categori
 ### Prediction Result on Test Data:
 
 ![Testing Data Sample](Result/test_example.JPG)
+
+
+#### Denote:
+Bitcoin: 3QFpMuvMcMaZ6cQUHqgrd2mDirz1JZi1W8
