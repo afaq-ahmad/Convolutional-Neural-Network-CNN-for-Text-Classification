@@ -63,6 +63,3 @@ Convolutional Neural Network (CNN) for Text Classification in different categori
 ![Testing Data Sample](Result/test_example.JPG)
 
 
-#### Support:
-Bitcoin: 3QFpMuvMcMaZ6cQUHqgrd2mDirz1JZi1W8
-
